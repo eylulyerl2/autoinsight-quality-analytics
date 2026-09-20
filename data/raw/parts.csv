@@ -1,0 +1,31 @@
+part_id,part_name,category,supplier_id,unit_cost
+1,Timing Belt,Engine,10,1200
+2,Spark Plug Set,Engine,9,650
+3,Turbocharger,Engine,5,18500
+4,Oil Pump,Engine,1,2800
+5,Fuel Pump,Fuel System,7,3200
+6,Fuel Injector,Fuel System,5,2400
+7,Brake Pad,Brake,1,900
+8,Brake Disc,Brake,9,1800
+9,ABS Sensor,Brake,3,1500
+10,Brake Caliper,Brake,7,3500
+11,Water Pump,Cooling,1,2200
+12,Radiator,Cooling,9,4200
+13,Radiator Hose,Cooling,10,450
+14,Thermostat,Cooling,7,700
+15,Electronic Control Unit,Electronics,2,14500
+16,Oxygen Sensor,Electronics,2,1900
+17,Airbag Control Module,Electronics,2,6800
+18,Infotainment Display,Electronics,3,9500
+19,Battery Module,Electrical,6,22000
+20,Alternator,Electrical,6,5200
+21,Starter Motor,Electrical,3,3900
+22,Shock Absorber,Suspension,5,2600
+23,Control Arm,Suspension,9,2100
+24,Wheel Bearing,Suspension,1,1100
+25,Clutch Kit,Transmission,7,5400
+26,Gearbox Sensor,Transmission,6,1700
+27,Air Conditioning Compressor,HVAC,5,8500
+28,Cabin Air Filter,HVAC,4,350
+29,Power Steering Pump,Steering,9,4800
+30,Door Handle Assembly,Body & Interior,8,850

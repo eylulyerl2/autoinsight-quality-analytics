@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,supplier_category
+1,Supplier A,Turkey,Mechanical
+2,Supplier B,Germany,Electronics
+3,Supplier C,China,Electronics
+4,Supplier D,Turkey,Plastics
+5,Supplier E,Japan,Mechanical
+6,Supplier F,South Korea,Electronics
+7,Supplier G,Poland,Mechanical
+8,Supplier H,Romania,Plastics
+9,Supplier I,India,Mechanical
+10,Supplier J,Mexico,Rubber
