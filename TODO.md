@@ -8,25 +8,25 @@
 - [x] Create task list (this file)
 
 ## Phase 1 — Industry & Data Requirements
-- [ ] Learn the basics: automotive production process, quality control, warranty cases, part replacement flow
-- [ ] Understand the difference between defect source, root cause and corrective action
-- [ ] Write `docs/business_requirements.md`
-  - [ ] Problem statement
-  - [ ] Stakeholders
-  - [ ] Business questions
-  - [ ] KPIs
-  - [ ] Assumptions
-  - [ ] Project scope
+- [x] Learn the basics: automotive production process, quality control, warranty cases, part replacement flow
+- [x] Understand the difference between defect source, root cause and corrective action
+- [x] Write `docs/business_requirements.md`
+  - [x] Problem statement
+  - [x] Stakeholders
+  - [x] Business questions
+  - [x] KPIs
+  - [x] Assumptions
+  - [x] Project scope
 
 ## Phase 2 — Synthetic Data Generation
-- [ ] Decide the date range (several years, e.g. 3–4)
-- [ ] Set up Python environment (`venv`, `pandas`, `faker`/`numpy`)
-- [ ] Generate `suppliers` and `parts`
-- [ ] Generate `vehicles`
-- [ ] Generate `quality_incidents` (with controlled failure probabilities per part)
-- [ ] Generate `part_replacements` and `corrective_actions`
-- [ ] Validate data (row counts, foreign keys, date logic, no negative costs)
-- [ ] Save CSV files to `data/raw/`
+- [x] Decide the date range (2023-01-01 to 2025-12-31)
+- [x] Set up Python environment (`venv`, `pandas`, `numpy`)
+- [x] Generate `suppliers` and `parts`
+- [x] Generate `vehicles`
+- [x] Generate `quality_incidents` (with controlled failure probabilities per part)
+- [x] Generate `part_replacements` and `corrective_actions`
+- [x] Validate data (row counts, foreign keys, date logic, no negative costs)
+- [x] Save CSV files to `data/raw/`
 
 ## Phase 3 — Database & SQL Analysis
 - [ ] Install PostgreSQL
